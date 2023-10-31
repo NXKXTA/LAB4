@@ -32,3 +32,4 @@ while rocks > 0:
             break
     except ValueError:
         print("Вы ввели неверное число камней. Введите число 1, 2 либо 3")
+# Изменение1
